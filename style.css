@@ -1,0 +1,16 @@
+p{
+    display: inline-block;
+    font-size: 20px;
+    font-weight:900;
+    font-family:cursive;
+
+}
+input{
+    padding:0px 0px 0px 10px
+    width:900px;
+    height:40px;
+    font-family:cursive;
+    font-size: 20px;
+
+    display: inline-block;
+}
